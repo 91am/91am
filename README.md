@@ -1,5 +1,6 @@
-<img src="https://i.redd.it/4zsqe5yu3p501.gif"/>
 <h1 align="center">Hi 👋, I'm Ana María Herrera</h1>
+<img src="https://i.redd.it/4zsqe5yu3p501.gif"/>
+
 <h3 align="center">A passionate frontend developer and UX-UI Designer</h3>
 <p>I have a solid background in graphic design, digital illustration and audiovisual communication, which allows me to create web projects in a coherent and effective way.
 By merging my technical skills with my artistic creativity, I offer innovative solutions that, besides being visually attractive, are functional based on the proper research to successfully conceptualize ideas and deliver experiences with user-centered methodologies.
